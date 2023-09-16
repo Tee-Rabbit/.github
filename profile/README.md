@@ -41,9 +41,9 @@ For any inquiries or further information, feel free to contact us at [contact@te
 
 ## Follow Us
 
-- [Twitter](https://twitter.com/teerabbittteam)
-- [Instagram](https://instagram.com/teerabbittteam)
-- [Facebook](https://facebook.com/teerabbittteam)
+- [Twitter](https://twitter.com/teerabbitteam)
+- [Instagram](https://instagram.com/teerabbitteam)
+- [Facebook](https://facebook.com/teerabbitteam)
 
 ## License
 
