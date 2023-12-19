@@ -1,8 +1,8 @@
-# TeeRabbit
+# Threadflow
 
 ## Overview
 
-TeeRabbit is a fashion manufacturing and fulfillment startup that empowers small boutiques and content creators with customized online stores. We partner with boutique owners and influencers to produce quality clothing collections and merchandise under their own branding, offering a seamless tech-enabled experience.
+Threadflow is a fashion manufacturing and fulfillment startup that empowers small boutiques and content creators with customized online stores. We partner with boutique owners and influencers to produce quality clothing collections and merchandise under their own branding, offering a seamless tech-enabled experience.
 
 ## Features
 
@@ -37,13 +37,13 @@ Once everything is set up, launch your store and start marketing your brand to y
 
 ## Contact Us
 
-For any inquiries or further information, feel free to contact us at [contact@teerabbit.com](mailto:contact@teerabbit.com).
+For any inquiries or further information, feel free to contact us at [contact@Threadflow.com](mailto:contact@Threadflow.com).
 
 ## Follow Us
 
-- [Twitter](https://twitter.com/teerabbitteam)
-- [Instagram](https://instagram.com/teerabbitteam)
-- [Facebook](https://facebook.com/teerabbitteam)
+- [Twitter](https://twitter.com/Threadflowteam)
+- [Instagram](https://instagram.com/Threadflowteam)
+- [Facebook](https://facebook.com/Threadflowteam)
 
 ## License
 
